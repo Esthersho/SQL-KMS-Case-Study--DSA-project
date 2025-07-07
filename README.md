@@ -57,6 +57,21 @@ There were 14 questions that needed to be answered in the excel project. These w
 
 From the above, some key insights generated include:
 
+1. The product category with the highest sales was Technology. This showed a steady customer demand for the products. 
+2. The Top 3 regions showed the highest total sales within the four-year period, while the Bottom 3 regions recorded the lowest in terms of sales. This shows the need to ensure that sales is increased in other regions.
+3. Total sales of appliances in Ontario: The sales in this region was moderate and it can be improved  through focused promotions and advertisements. 
+4. Bottom 10 customers by Sales:  My advise to the management of KMS to increase the revenue from the bottom 10 customers is that they should reduce the unit price of the goods being sold in these customer segments. They could also target these customers to encourage their purchase through onboarding campaigns and other taiored offers.
+5. Shipping method with the most shipping cost was Delivery truck. This ship mode should be used for only goods that are bulky and those with low order priority to ensure cost effectiveness.
+6. The most valuable customers should be encouraged to continue purchasing from the organization. In order to retain them, incentives and other promotional offers should be put in place and the products or services do they typically purchase should not be allowed to go out of stock.
+7. Small business customer that had the highest sales was identified. This shows that there should be dedicated relationship management.
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
+9. Which consumer customer was the most profitable one? 
+10. Which customer returned items, and what segment do they belong to? 
+11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company 
+appropriately spent shipping costs based on the Order Priority? Explain your answer
+
+
+
 - Home Improveement ctegory had the highest discount percentage.
 - Electronics category had the most number of products and reviews.
 - Most products were rated 4.1
