@@ -22,23 +22,36 @@ The primary data source used for this analysis was KMS sql case study.csv. This 
 
 ### Tools used
 
-- Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for data cleaning, which involved data manipultion
+- Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for data cleaning, which involved data manipulation
 - SQL Server Management Studio 20 [Download Here] (https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=0e2eb74be29567e13adfa24ce38566b1), version 20 was used for data querying. 
 
 ### Data Cleaning and Preparation
 
-In the initial phase of the Data cleaning and prparation, the following actions were performed:
+In the initial phase of the Data cleaning and preparation, the following actions were performed:
 
 1. Data loading and inspection.
 2. Missing variables in the data was identified and handled.
 3. Data was cleaned and formatted.
 
-### Data Query
+### Data Query and Key Questions Answered
 
-Data exploration was used to answer questions such as:
+SQL queries were used to answer some key questions pertaining to the order between 2009 and 2012. These questions includ:
 
-1. How the rating relate to the level of discount of the products.
-2. Categories that have products with the highest discounts.
+1. Which product category had the highest sales? 
+2. What are the Top 3 and Bottom 3 regions in terms of sales? 
+3. What were the total sales of appliances in Ontario? 
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 
+10 customers 
+5. KMS incurred the most shipping cost using which shipping method?
+6. Who are the most valuable customers, and what products or services do they typically 
+purchase? 
+7. Which small business customer had the highest sales? 
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
+9. Which consumer customer was the most profitable one? 
+10. Which customer returned items, and what segment do they belong to? 
+11. If the delivery truck is the most economical but the slowest shipping method and 
+Express Air is the fastest but the most expensive one, do you think the company 
+appropriately spent shipping costs based on the Order Priority? Explain your answer 
 
 ### Key insights
 
