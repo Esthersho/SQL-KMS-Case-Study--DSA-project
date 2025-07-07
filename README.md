@@ -64,26 +64,19 @@ From the above, some key insights generated include:
 5. Shipping method with the most shipping cost was Delivery truck. This ship mode should be used for only goods that are bulky and those with low order priority to ensure cost effectiveness.
 6. The most valuable customers should be encouraged to continue purchasing from the organization. In order to retain them, incentives and other promotional offers should be put in place and the products or services do they typically purchase should not be allowed to go out of stock.
 7. Small business customer that had the highest sales was identified. This shows that there should be dedicated relationship management.
-8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
-9. Which consumer customer was the most profitable one? 
-10. Which customer returned items, and what segment do they belong to? 
-11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company 
-appropriately spent shipping costs based on the Order Priority? Explain your answer
+8. The Corporate Customer that placed the most number of orders in 2009 – 2012 should be encouraged to continue purchase. This can be through special discounts.
+9. The most profitable consumer customer should be targeted and given exclusive deals to encourage increase in purchase.
+10. Customers returned items mostly from the corporate segment. The resons for item being returned should be looked into for all the segments and resolved to reduce loss and meet customers' expectations.
+11. Shipping cost alignment with order priority: The company did not appropriately spend shipping cost based on order priority. This is because express air, which should be for citical order priority, requiring urgency, was used for low order priority in some cases and Delivery truck is also used for critical order priority in some cases. This shows a disalignment between order priority, the ship mode and even the order count.
+
+- Recommendation: Policies should be enforced so that the shipping method used aligns with the order priority and the order quantity.
 
 
-
-- Home Improveement ctegory had the highest discount percentage.
-- Electronics category had the most number of products and reviews.
-- Most products were rated 4.1
-- Most products have prices > ₹500.
 
 ### Project Files
 
-- Amazon case study: This contains
-    1. Cleaned data
-    2. Pivot table analysis
-    3. calculated columns
-    4. Excel dashboard
+- KMS DSA Capstone project.sql: This contains all the SQL queries used
+- Readme.md- Contains a summarry report of key findings
  
 ### Contributor
 
