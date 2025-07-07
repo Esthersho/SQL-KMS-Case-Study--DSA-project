@@ -12,26 +12,18 @@ furniture. Its customer base includes individual consumers, small businesses (re
 
 ### Data Source
 
-The primary data source used for this analysis was Amazon case study.xlsx. This was sent by the DSA team to be used in completing the project to be submitted. It was uploaded to the Canvas site of each student and made available for download.
+The primary data source used for this analysis was KMS sql case study.csv. This was sent by the DSA team to be used in completing the project to be submitted. It was uploaded to the Canvas site of each student and made available for download.
 
 ### Dataset Summary
 
-- Total records: 1465
-- Total columns: 16
-- Key fields: Product Name, Category, Actual price, Discount percentage, Rating, Rating count.
+- Total records: 8399
+- Total columns: 2
+- Key fields: Order priority, Product Name, Product Category, Unit price, Order quantity, SHip mode, Customer segment, Sales
 
 ### Tools used
 
-Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for the following:
-
-- Data cleaning
-  1. Data manipultion
-  2. Data munching
--  Creating calculated tables
-   1. Using excel formula
--  Creating pivot tables
--  Creating calculated tables
--  Creating a dashboard.
+- Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for data cleaning, which involved data manipultion
+- SQL Server Management Studio 20 [Download Here] (https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=0e2eb74be29567e13adfa24ce38566b1), version 20 was used for data querying. 
 
 ### Data Cleaning and Preparation
 
@@ -41,7 +33,7 @@ In the initial phase of the Data cleaning and prparation, the following actions 
 2. Missing variables in the data was identified and handled.
 3. Data was cleaned and formatted.
 
-### Exploratory Data Analysis
+### Data Query
 
 Data exploration was used to answer questions such as:
 
