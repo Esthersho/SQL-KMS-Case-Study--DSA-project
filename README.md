@@ -2,7 +2,7 @@
 
 This contains a detailed step-by-step analysis using SQL, a project organized by Digital skillup Africa in partial fulfillmrnt of the learning requirements.
 
-Throughout the three-month program, i have learnt a lot on the use of Microsoft Excel, SQL and PowerBI to perform various analytical and visualization operations on datasets. i also learnt about portfoli builing to showcase the projects worked upon.
+Throughout the three-month program, i have learnt a lot on the use of Microsoft Excel, SQL and PowerBI to perform various analytical and visualization operations on datasets. i also learnt about portfolio building to showcase the projects worked upon.
 
 ## Project Topic: Kulta Mega Stores Inventory Analysis 
 
