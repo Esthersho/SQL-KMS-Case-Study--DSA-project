@@ -17,13 +17,13 @@ The primary data source used for this analysis was KMS sql case study.csv. This 
 ### Dataset Summary
 
 - Total records: 8399
-- Total columns: 2
+- Total columns: 21
 - Key fields: Order priority, Product Name, Product Category, Unit price, Order quantity, SHip mode, Customer segment, Sales
 
 ### Tools used
 
 - Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for data cleaning, which involved data manipulation
-- SQL Server Management Studio 20 [Download Here] (https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=0e2eb74be29567e13adfa24ce38566b1), version 20 was used for data querying. 
+- SQL Server Management Studio 20 [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=0e2eb74be29567e13adfa24ce38566b1), version 20 was used for data querying. 
 
 ### Data Cleaning and Preparation
 
